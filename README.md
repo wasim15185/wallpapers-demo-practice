@@ -10,7 +10,8 @@ First of create a folder name **components** folder structure `wallpapers-demo-p
 ```export const Access_Key : string = 'Give Access-Key'
 export const Secret_key : string = 'Give Secret-key'
 
-export const BASE_URL : string = 'https://api.unsplash.com/'```
+export const BASE_URL : string = 'https://api.unsplash.com/'
+```
 
 
 #### preview
