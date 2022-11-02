@@ -31,7 +31,7 @@ export default function SingleWallpapersScreen({
 			/>
 
 			<Pressable style={styles.button} onPress={() => {}}>
-				<Text style={styles.text}>Click Me</Text>
+				<Text  style={styles.text}>Download</Text>
 			</Pressable>
 		</View>
 	);
@@ -64,5 +64,7 @@ const styles = StyleSheet.create({
 		fontWeight: "bold",
 		letterSpacing: 0.25,
 		color: "white",
+		textTransform:'uppercase'
+
 	},
 });
